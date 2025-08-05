@@ -1,24 +1,28 @@
-# Desafios de Lógica de Programação 💡
+# Desafios de Lógica em JavaScript
 
-Este repositório contém soluções de desafios de lógica desenvolvidos em JavaScript, com o objetivo de praticar a entrada de dados, estruturas condicionais, operadores e manipulação de números.
+Este repositório reúne diversos desafios de lógica de programação resolvidos em **JavaScript**, com foco no desenvolvimento de raciocínio lógico, estruturas de decisão, repetições e manipulação de dados.
 
-## ✅ Desafios concluídos
+Cada pasta contém:
+
+- `index.js`: Código com a solução do desafio.
+- `README.md`: Descrição do problema e instruções.
+
+## Desafios disponíveis
 
 - [🛒 Cálculo do Total e Desconto de Compra](./calculo-total-e-desconto/)
+
   - O usuário informa o preço de três produtos.
   - O sistema calcula o total da compra.
   - Se o valor for superior a R$ 100, aplica 10% de desconto.
   - Exibe o valor final formatado.
 
-Mais desafios serão adicionados em breve!
+- [📦 Controle de Estoque e Carrinho de Compras](./controle-estoque-carrinho/)
+  - O sistema inicia com 5 unidades em estoque.
+  - O usuário escolhe entre adicionar ou retirar itens do estoque.
+  - Se tentar retirar mais do que o disponível, exibe "Estoque insuficiente".
+  - Em seguida, o usuário informa quantos produtos deseja adicionar ao carrinho.
+  - O sistema solicita os nomes dos produtos e exibe a lista final formatada.
 
----
-
-📁 Cada pasta conterá:
-
-- `index.js` com a solução do desafio.
-- `README.md` com a descrição do problema, entrada, saída e exemplos.
-
----
+Novos desafios serão adicionados em breve. 🚀
 
 👨‍💻 Desenvolvido por [@alexcjrr](https://github.com/alexcjrr)
