@@ -9,14 +9,14 @@ Cada pasta contém:
 
 ## Desafios disponíveis
 
-- [🛒 Cálculo do Total e Desconto de Compra](./calculo-total-e-desconto/)
+- [🛒 Cálculo do Total e Desconto de Compra](./Checkout-Inteligente/)
 
   - O usuário informa o preço de três produtos.
   - O sistema calcula o total da compra.
   - Se o valor for superior a R$ 100, aplica 10% de desconto.
   - Exibe o valor final formatado.
 
-- [📦 Controle de Estoque e Carrinho de Compras](./controle-estoque-carrinho/)
+- [📦 Controle de Estoque e Carrinho de Compras](./Logica-de-um-Carrinho-de-Compras/)
   - O sistema inicia com 5 unidades em estoque.
   - O usuário escolhe entre adicionar ou retirar itens do estoque.
   - Se tentar retirar mais do que o disponível, exibe "Estoque insuficiente".
