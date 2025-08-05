@@ -17,11 +17,18 @@ Cada pasta contém:
   - Exibe o valor final formatado.
 
 - [📦 Controle de Estoque e Carrinho de Compras](./Logica-de-um-Carrinho-de-Compras/)
+
   - O sistema inicia com 5 unidades em estoque.
   - O usuário escolhe entre adicionar ou retirar itens do estoque.
   - Se tentar retirar mais do que o disponível, exibe "Estoque insuficiente".
   - Em seguida, o usuário informa quantos produtos deseja adicionar ao carrinho.
   - O sistema solicita os nomes dos produtos e exibe a lista final formatada.
+
+  - [💸 Aplicação de Desconto e Verificação de Frete Grátis](./Simulando-Frete-Gratis-e-Desconto/)
+  - Aplica desconto de 10% ou 20% conforme o cupom informado.
+  - Exibe o valor final da compra no formato "R$ XX.XX".
+  - Verifica se o valor final da compra dá direito a frete grátis.
+  - Exibe "Você ganhou frete grátis!" ou "Frete não incluso.".
 
 Novos desafios serão adicionados em breve. 🚀
 
